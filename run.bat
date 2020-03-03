@@ -1,6 +1,5 @@
 @echo off
 
-cd %cd%
-nodemon app.js
+http-server
 
 @pause
